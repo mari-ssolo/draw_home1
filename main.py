@@ -1,2 +1,5 @@
-def home():
-    pass
+a = int(input())
+b = int(input())
+print(a/b)
+print(a//b)
+print(a*b)
